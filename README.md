@@ -2,4 +2,5 @@
 
 Repository for scripts and notebooks from the book: Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications
 
-## dataset folder downloaded into chapter 2
+- dataset folder downloaded into chapter 2
+- latest update : chapter 3 finished
